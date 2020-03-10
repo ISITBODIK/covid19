@@ -88,7 +88,7 @@
     "Official statements from Task Force": "福岡市新型コロナウイルス感染症対策本部報",
     "Cancelled public events": "不特定多数の人が集まるイベントへの対応",
     "Government official website": "福岡市公式ホームページ",
-    "Message from Governor Koike": "市長からのメッセージ",
+    "Message from Governor Takashima": "市長からのメッセージ",
     "About us": "当サイトについて"
   }
 }
@@ -148,9 +148,9 @@ export default {
             'https://www.city.fukuoka.lg.jp/hofuku/hokenyobo/health/kansen/nCorV.html#ftev'
         },
         {
-          title: this.$t('Message from Governor Koike'),
+          title: this.$t('Message from Governor Takashima'),
           link:
-            'https://www.metro.tokyo.lg.jp/tosei/governor/governor/katsudo/2020/03/03_00.html'
+            ''
         },
         {
           title: this.$t('About us'),
