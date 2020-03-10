@@ -81,12 +81,12 @@
     "Tokyo Metropolitan Government": "福岡市",
     "Tokyo COVID-19 Task Force": "新型コロナウイルス感染症対策本部",
     "The latest updates": "福岡市内の最新感染動向",
-    "If you have any symptoms": "新型コロナウイルス感染症が心配なときに",
+    "If you have any symptoms": "こんな方はご注意ください",
     "for Families with children": "お子様をお持ちの皆様へ",
     "for Citizens": "市民の皆様へ",
-    "for Enterprises and Employees": "企業の皆様・はたらく皆様へ",
+    "for Enterprises and Employees": "事業者の方へ",
     "Official statements from Task Force": "福岡市新型コロナウイルス感染症対策本部報",
-    "Cancelled public events": "福岡市主催等 中止又は延期するイベント等",
+    "Cancelled public events": "不特定多数の人が集まるイベントへの対応",
     "Government official website": "福岡市公式ホームページ",
     "Message from Governor Koike": "市長からのメッセージ",
     "About us": "当サイトについて"
@@ -118,7 +118,7 @@ export default {
         {
           icon: 'covid',
           title: this.$t('If you have any symptoms'),
-          link: '/flow',
+          link: 'https://www.city.fukuoka.lg.jp/hofuku/hokenyobo/health/kansen/nCorV.html#kgkd',
           divider: true
         },
         {
@@ -134,7 +134,7 @@ export default {
         {
           icon: 'mdi-domain',
           title: this.$t('for Enterprises and Employees'),
-          link: '/worker',
+          link: 'https://www.city.fukuoka.lg.jp/hofuku/hokenyobo/health/kansen/nCorV.html#ji',
           divider: true
         },
         {
@@ -145,7 +145,7 @@ export default {
         {
           title: this.$t('Cancelled public events'),
           link:
-            'https://www.seisakukikaku.metro.tokyo.lg.jp/information/event02.html'
+            'https://www.city.fukuoka.lg.jp/hofuku/hokenyobo/health/kansen/nCorV.html#ftev'
         },
         {
           title: this.$t('Message from Governor Koike'),
@@ -158,7 +158,7 @@ export default {
         },
         {
           title: this.$t('Government official website'),
-          link: 'https://www.metro.tokyo.lg.jp/',
+          link: 'https://www.city.fukuoka.lg.jp/index.html',
           divider: true
         }
       ]
