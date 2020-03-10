@@ -104,7 +104,7 @@
     <TextCard title="お問い合わせ先（福岡市のHPサイトポリシーについて）">
       福岡市”生活文化局広報広聴部広報課”<br />
       電話
-      <a href="tel:03-5388-3085">03-5388-3085</a>
+      <a href="tel:092-xxxx-xxxx">092-xxxx-xxxx</a>
     </TextCard>
   </div>
 </template>
