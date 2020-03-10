@@ -242,7 +242,7 @@ export default {
   },
   head() {
     return {
-      title: '都内の最新感染動向'
+      title: '福岡市内の最新感染動向'
     }
   }
 }
