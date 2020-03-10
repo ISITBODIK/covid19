@@ -138,11 +138,6 @@ export default {
           divider: true
         },
         {
-          title: this.$t('Official statements from Task Force'),
-          link:
-            'https://www.bousai.metro.tokyo.lg.jp/taisaku/saigai/1007261/index.html'
-        },
-        {
           title: this.$t('Cancelled public events'),
           link:
             'https://www.city.fukuoka.lg.jp/hofuku/hokenyobo/health/kansen/nCorV.html#ftev'
