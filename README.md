@@ -2,7 +2,7 @@
 
 ![](https://github.com/tokyo-metropolitan-gov/covid19/workflows/production%20deploy/badge.svg)
 
-[![福岡市 新型コロナウイルス感染症対策サイト](https://user-images.githubusercontent.com/1301149/75629392-1d19d900-5c25-11ea-843d-2d4376e3a560.png)](https://admiring-brown-fc205c.netlify.com/)
+[![福岡市 新型コロナウイルス感染症対策サイト](https://github.com/ISITBODIK/covid19/blob/development/static/ogp.png?raw=true)](https://admiring-brown-fc205c.netlify.com/)
 
 ### 日本語 | [English](./README_EN.md) | [Spanish](./README_ES.md) | [Korean](./README_KO.md) | [Chinese (Taiwan)](./README_ZH_TW.md)
 
