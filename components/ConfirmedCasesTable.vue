@@ -228,7 +228,7 @@ export default {
     fill: #4d4d4d;
   }
   .green {
-    fill: #00a040;
+    fill: #325685;
   }
   .text {
     font-size: 13px;
